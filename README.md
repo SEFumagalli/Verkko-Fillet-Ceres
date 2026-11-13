@@ -8,7 +8,7 @@
 * The GitHub repository containing the source code is located here: https://github.com/marbl/verkko-fillet (Juhyun Kim)
 * Associated website with detailed walkthrough: https://verkko-fillet.readthedocs.io/en/latest/
 
-\------------------------------------------------------------------------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------------------------------------
 
 ### **Description of the Verkko-Fillet pipeline**
 
@@ -47,4 +47,4 @@ python3 run_verkko_fillet.py --verkko_directory <verkko_assembly_directory_path>
 * `--rDNA_fasta_fai` Checks for Verkko created assembly.rDNA.fasta - if missing (required)
 * `--new_row` add row/s to translation_hap* files via dictionary - this is used during a rerun (not required)
 
-\----------------------------------------------------------------------------------------------------------------------------------------------------------
+\------------------------------------------------------------------------------------------------------------------
