@@ -4,7 +4,7 @@
 **The Verkko-Fillet pipeline is an easy-to-use, Python-based toolkit for cleaning graph paths generated from Verkko assembler.**
 **Note: Verkko-Fillet is originally employed via Jupyter Notebook. Here, I modified the scripts to run via a bash file and produce merged reports.**
 
-* This pipeline is described here: https://doi.org/10.1101/2025.10.01.679366 
+* This pipeline is described here: https://doi.org/10.1016/j.xgen.2026.101279 
 * The GitHub repository containing the source code is located here: https://github.com/marbl/verkko-fillet (Juhyun Kim)
 * Associated website with detailed walkthrough: https://verkko-fillet.readthedocs.io/en/latest/
 
